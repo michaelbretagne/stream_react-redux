@@ -2,11 +2,14 @@
 
 # dependencies
 /client/node_modules
+/api/node_modules
 # testing
 /client/client/coverage
+/api/client/coverage
 
 # production
 /client//build
+/api//build
 
 # misc
 /client/.DS_Store
@@ -14,7 +17,15 @@
 /client/.env.development.local
 /client/.env.test.local
 /client/.env.production.local
+/api/.DS_Store
+/api/.env.local
+/api/.env.development.local
+/api/.env.test.local
+/api/.env.production.local
 
 /client/npm-debug.log*
 /client/yarn-debug.log*
 /client/yarn-error.log*
+/api/npm-debug.log*
+/api/yarn-debug.log*
+/api/yarn-error.log*
