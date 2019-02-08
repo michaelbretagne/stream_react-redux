@@ -3,13 +3,16 @@
 # dependencies
 /client/node_modules
 /api/node_modules
+/rtmpserver/node_modules
 # testing
 /client/client/coverage
 /api/client/coverage
+/rtmpserver/client/coverage
 
 # production
-/client//build
-/api//build
+/client/build
+/api/build
+/rtmpserver/build
 
 # misc
 /client/.DS_Store
@@ -22,6 +25,11 @@
 /api/.env.development.local
 /api/.env.test.local
 /api/.env.production.local
+/rtmpserver/.DS_Store
+/rtmpserver/.env.local
+/rtmpserver/.env.development.local
+/rtmpserver/.env.test.local
+/rtmpserver/.env.production.local
 
 /client/npm-debug.log*
 /client/yarn-debug.log*
@@ -29,3 +37,6 @@
 /api/npm-debug.log*
 /api/yarn-debug.log*
 /api/yarn-error.log*
+/rtmpserver/npm-debug.log*
+/rtmpserver/yarn-debug.log*
+/rtmpserver/yarn-error.log*
