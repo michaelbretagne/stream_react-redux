@@ -1,3 +1,16 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Node  tutorial",
+      "description": "This Node.js tutorial for beginners teaches you how you can debug your Node.js applications easily by using the built-in debug module and the Chrome DevTools. ",
+      "userId": "111234732592002709979",
+      "id": 2
+    },
+    {
+      "title": "React tutorial for beginners",
+      "description": "Learn all about React, arguably the hottest and most popular JavaScript framework to date! ",
+      "userId": "111234732592002709979",
+      "id": 3
+    }
+  ]
 }
